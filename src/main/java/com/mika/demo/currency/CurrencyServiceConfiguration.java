@@ -1,4 +1,4 @@
-package com.mika.demo;
+package com.mika.demo.currency;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

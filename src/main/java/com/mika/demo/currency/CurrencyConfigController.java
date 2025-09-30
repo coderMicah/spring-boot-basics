@@ -1,4 +1,4 @@
-package com.mika.demo;
+package com.mika.demo.currency;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
